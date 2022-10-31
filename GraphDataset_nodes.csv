@@ -1,0 +1,89 @@
+node_id,Building_type,city,county,County_code,District,Route_Number,TOTAL_CF,TOTAL_WG,TOTAL_AQI,TOTAL_RF
+1,Small Office,Alameda,Alameda,ALA,4,61,389.27,61504.66,180.5,20669.5
+2,Small Office,"Albany, CA",Alameda,ALA,4,80,98.41,15548.78,180.5,212732
+3,Small Office,"Ashland, CA",Alameda,ALA,4,185,110.595,17474.01,180.5,19132
+4,Small Office,"Berkeley, CA",Alameda,ALA,4,80,595.235,94047.13,180.5,212732
+5,Small Office,Castro Valley,Alameda,ALA,4,580,307.91,48649.78,180.5,139674.1053
+6,Small Office,Cherryland,Alameda,ALA,4,238,74.61,11788.38,180.5,58220.88889
+7,Small Office,"Dublin, CA",Alameda,ALA,4,680,274.445,43362.31,179.5,116719.5
+8,Small Office,Emeryville,Alameda,ALA,4,123,57.105,9022.59,180.5,20103.42857
+9,Small Office,"Fairview, CA",Alameda,ALA,4,580,50.985,8055.63,181.5,139674.1053
+10,Small Office,"Hayward, CA",Alameda,ALA,4,92,774.03,122296.74,181.5,78557.13514
+11,Medium Office,Alameda,Alameda,ALA,4,61,413.955,65404.89,180.5,20697.5
+12,Medium Office,"Albany, CA",Alameda,ALA,4,80,123.095,19449.01,180.5,212760
+13,Medium Office,"Ashland, CA",Alameda,ALA,4,185,135.28,21374.24,180.5,19160
+14,Medium Office,"Berkeley, CA",Alameda,ALA,4,80,619.92,97947.36,180.5,212760
+15,Medium Office,Castro Valley,Alameda,ALA,4,580,332.595,52550.01,180.5,139702.1053
+16,Medium Office,Cherryland,Alameda,ALA,4,238,99.295,15688.61,180.5,58248.88889
+17,Medium Office,"Dublin, CA",Alameda,ALA,4,680,299.13,47262.54,179.5,116747.5
+18,Medium Office,Emeryville,Alameda,ALA,4,123,81.79,12922.82,180.5,20131.42857
+19,Medium Office,"Fairview, CA",Alameda,ALA,4,580,75.67,11955.86,181.5,139702.1053
+20,Medium Office,"Hayward, CA",Alameda,ALA,4,92,798.715,126196.97,181.5,78585.13514
+21,Large Office,Alameda,Alameda,ALA,4,61,437.765,69166.87,180.5,20699.5
+22,Large Office,"Albany, CA",Alameda,ALA,4,80,146.905,23210.99,180.5,212762
+23,Large Office,"Ashland, CA",Alameda,ALA,4,185,159.09,25136.22,180.5,19162
+24,Large Office,"Berkeley, CA",Alameda,ALA,4,80,643.73,101709.34,180.5,212762
+25,Large Office,Castro Valley,Alameda,ALA,4,580,356.405,56311.99,180.5,139704.1053
+26,Large Office,Cherryland,Alameda,ALA,4,238,123.105,19450.59,180.5,58250.88889
+27,Large Office,"Dublin, CA",Alameda,ALA,4,680,322.94,51024.52,179.5,116749.5
+28,Large Office,Emeryville,Alameda,ALA,4,123,105.6,16684.8,180.5,20133.42857
+29,Large Office,"Fairview, CA",Alameda,ALA,4,580,99.48,15717.84,181.5,139704.1053
+30,Large Office,"Hayward, CA",Alameda,ALA,4,92,822.525,129958.95,181.5,78587.13514
+31,Primary School,Alameda,Alameda,ALA,4,61,434.525,68654.95,180.5,20661.5
+32,Primary School,"Albany, CA",Alameda,ALA,4,80,143.665,22699.07,180.5,212724
+33,Primary School,"Ashland, CA",Alameda,ALA,4,185,155.85,24624.3,180.5,19124
+34,Primary School,"Berkeley, CA",Alameda,ALA,4,80,640.49,101197.42,180.5,212724
+35,Primary School,Castro Valley,Alameda,ALA,4,580,353.165,55800.07,180.5,139666.1053
+36,Primary School,Cherryland,Alameda,ALA,4,238,119.865,18938.67,180.5,58212.88889
+37,Primary School,"Dublin, CA",Alameda,ALA,4,680,319.7,50512.6,179.5,116711.5
+38,Primary School,Emeryville,Alameda,ALA,4,123,102.36,16172.88,180.5,20095.42857
+39,Primary School,"Fairview, CA",Alameda,ALA,4,580,96.24,15205.92,181.5,139666.1053
+40,Primary School,"Hayward, CA",Alameda,ALA,4,92,819.285,129447.03,181.5,78549.13514
+41,Secondary School,Alameda,Alameda,ALA,4,61,476.17,75234.86,180.5,20703.5
+42,Secondary School,"Albany, CA",Alameda,ALA,4,80,185.31,29278.98,180.5,212766
+43,Secondary School,"Ashland, CA",Alameda,ALA,4,185,197.495,31204.21,180.5,19166
+44,Secondary School,"Berkeley, CA",Alameda,ALA,4,80,682.135,107777.33,180.5,212766
+45,Secondary School,Castro Valley,Alameda,ALA,4,580,394.81,62379.98,180.5,139708.1053
+46,Secondary School,Cherryland,Alameda,ALA,4,238,161.51,25518.58,180.5,58254.88889
+47,Secondary School,"Dublin, CA",Alameda,ALA,4,680,361.345,57092.51,179.5,116753.5
+48,Secondary School,Emeryville,Alameda,ALA,4,123,144.005,22752.79,180.5,20137.42857
+49,Secondary School,"Fairview, CA",Alameda,ALA,4,580,137.885,21785.83,181.5,139708.1053
+50,Secondary School,"Hayward, CA",Alameda,ALA,4,92,860.93,136026.94,181.5,78591.13514
+51,University,Alameda,Alameda,ALA,4,61,577.34,91219.72,206,20827.5
+52,University,"Albany, CA",Alameda,ALA,4,80,286.48,45263.84,206,212890
+53,University,"Ashland, CA",Alameda,ALA,4,185,298.665,47189.07,206,19290
+54,University,"Berkeley, CA",Alameda,ALA,4,80,783.305,123762.19,206,212890
+55,University,Castro Valley,Alameda,ALA,4,580,495.98,78364.84,206,139832.1053
+56,University,Cherryland,Alameda,ALA,4,238,262.68,41503.44,206,58378.88889
+57,University,"Dublin, CA",Alameda,ALA,4,680,462.515,73077.37,205,116877.5
+58,University,Emeryville,Alameda,ALA,4,123,245.175,38737.65,206,20261.42857
+59,University,"Fairview, CA",Alameda,ALA,4,580,239.055,37770.69,207,139832.1053
+60,University,"Hayward, CA",Alameda,ALA,4,92,962.1,152011.8,207,78715.13514
+61,Hospital,Alameda,Alameda,ALA,4,61,403.145,63696.91,206,20759.5
+62,Hospital,"Albany, CA",Alameda,ALA,4,80,112.285,17741.03,206,212822
+63,Hospital,"Ashland, CA",Alameda,ALA,4,185,124.47,19666.26,206,19222
+64,Hospital,"Berkeley, CA",Alameda,ALA,4,80,609.11,96239.38,206,212822
+65,Hospital,Castro Valley,Alameda,ALA,4,580,321.785,50842.03,206,139764.1053
+66,Hospital,Cherryland,Alameda,ALA,4,238,88.485,13980.63,206,58310.88889
+67,Hospital,"Dublin, CA",Alameda,ALA,4,680,288.32,45554.56,205,116809.5
+68,Hospital,Emeryville,Alameda,ALA,4,123,70.98,11214.84,206,20193.42857
+69,Hospital,"Fairview, CA",Alameda,ALA,4,580,64.86,10247.88,207,139764.1053
+70,Hospital,"Hayward, CA",Alameda,ALA,4,92,787.905,124488.99,207,78647.13514
+71,Mall,Alameda,Alameda,ALA,4,61,434.21,68605.18,206,20925.5
+72,Mall,"Albany, CA",Alameda,ALA,4,80,143.35,22649.3,206,212988
+73,Mall,"Ashland, CA",Alameda,ALA,4,185,155.535,24574.53,206,19388
+74,Mall,"Berkeley, CA",Alameda,ALA,4,80,640.175,101147.65,206,212988
+75,Mall,Castro Valley,Alameda,ALA,4,580,352.85,55750.3,206,139930.1053
+76,Mall,Cherryland,Alameda,ALA,4,238,119.55,18888.9,206,58476.88889
+77,Mall,"Dublin, CA",Alameda,ALA,4,680,319.385,50462.83,205,116975.5
+78,Mall,Emeryville,Alameda,ALA,4,123,102.045,16123.11,206,20359.42857
+79,Mall,"Fairview, CA",Alameda,ALA,4,580,95.925,15156.15,207,139930.1053
+80,Mall,"Hayward, CA",Alameda,ALA,4,92,818.97,129397.26,207,78813.13514
+81,Small Office,"Fremont, CA",Alameda ,ALA,4,84,1144.76,180872.08,176.5,38360.57143
+82,Medium Office,"Fremont, CA",Alameda ,ALA,4,84,1169.445,184772.31,176.5,38388.57143
+83,Large Office,"Fremont, CA",Alameda ,ALA,4,84,1193.255,188534.29,176.5,38390.57143
+84,Primary School,"Fremont, CA",Alameda ,ALA,4,84,1190.015,188022.37,176.5,38352.57143
+85,Secondary School,"Fremont, CA",Alameda ,ALA,4,84,1231.66,194602.28,176.5,38394.57143
+86,University,"Fremont, CA",Alameda ,ALA,4,84,1332.83,210587.14,202,38518.57143
+87,Hospital,"Fremont, CA",Alameda ,ALA,4,84,1158.635,183064.33,202,38450.57143
+88,Mall,"Fremont, CA",Alameda ,ALA,4,84,1189.7,187972.6,202,38616.57143
