@@ -1,4 +1,4 @@
-src,des,weight
-0,6,0.336141558
-0,1,0.750873014
-0,7,0.821630652
+color,object,quantity
+red,coat,2
+green,apple,3
+grey,jacket,6
